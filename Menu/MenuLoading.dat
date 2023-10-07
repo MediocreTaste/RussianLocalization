@@ -1,0 +1,47 @@
+// Made by Vsevolod Flovitskiy for Russian-Speaking.
+
+VAC_Secure VAC-Защита
+VAC_Insecure VAC не найден
+BattlEye_Secure BattlEye требуется
+BattlEye_Insecure BattlEye не найден
+Streamer Режим стримера
+Offline Отключён от интернета [Одиночная игра]
+
+Loading_Level_Play Загрузка {0} v{1} на {2} [{3}]...
+Loading_Level_Edit Загрузка [{0}]...
+
+Loading Загрузка от величайшего Кашкина...
+Loading_Blueprints Соединение чертежей для создания...
+Loading_Spawns Соединение точек появления...
+Loading_Misc Загрузка прочего...
+Loading_MainMenu Загрузка помойки...
+Loading_Asset_Bundles Загружено [{0}] из [{1}] пакетов файлов...
+Loading_Search Поиск [{0}] из [{1}] локаций и найдено [{2}] пакетов файлов...
+Loading_Read Прочитывается [{0}] из [{1}] пакетов файлов из мастерской...
+Loading_Asset_Definitions Загружено [{0}] из [{1}] файлов...
+Download_Progress Скачивание [{0}]...
+Level_Load Загрузка уровня: {0}%
+Queue_Position Место в очереди: #{0}
+Queue_Cancel Отменить
+Queue_Cancel_Tooltip Покинуть очередь
+
+Asset файлов
+Item предметов
+Effect эффектов
+Object объектов
+Resource ресурсов
+Vehicle транспорта
+Animal животных
+Mythic мистик
+Skin оболочек
+Spawn точек появлений
+Map карты
+Workshop_Shared модификации в мастерскую
+Workshop_Server модификации с сервера
+Workshop_Client модификации из мастерской
+Bundles_Server сервера
+NPC NPC-Объекты
+
+Creators Автор:
+Collaborators При поддержке данных лиц:
+Thanks Отдельная благодарность:
