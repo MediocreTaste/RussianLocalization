@@ -1,0 +1,33 @@
+// Made by Vsevolod Flovitskiy for Russian-Speaking.
+
+Return_Button Продолжить
+Return_Button_Tooltip Вернуться к игре.
+
+Exit_Button Выйти
+Exit_Button_Tooltip Выйти в меню игры.
+
+Support_Label Техническая поддержка
+Support_Tooltip Сообщить о найденных ошибках.
+
+Trello_Button Карта последствия
+Trello_Button_Tooltip Планы разработчика на будущее.
+
+Twitter_Button Новости в Twitter!
+Twitter_Button_Tooltip Информация о планах разработки.
+
+Steam_Button Новости в Steam!
+Steam_Button_Tooltip Информация о последующих обновлений.
+
+Credits_Button Команда творителей
+Credits_Button_Tooltip Информация о людях создающих эту игру.
+
+Forum_Button Форум
+Forum_Button_Tooltip Дисскусия по темам.
+
+Blog_Button SDG-Блог
+Blog_Button_Tooltip Блог разработчика игры.
+
+Wiki_Button Wikipedia
+Wiki_Button_Tooltip Библиотека сообщества игры.
+
+Overlay Steam-Overlay должен быть включен!
